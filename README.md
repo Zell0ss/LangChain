@@ -4,9 +4,14 @@ This repo contains the source code for [Build an LLM RAG Chatbot With LangChain]
 
 To run the final application that you'll build in this tutorial, you can use the code provided in `source_code_final/`.
 
+Into each lesson I put two jupyter notebooks. One with the lesson and my insights with the code snippets to execute there and another with the call directly to the python modules of the lesson to test them interactively, REPL like.
+
+Head for each of the lesson ones first if you want to follow the course without following the web page. 
+
+
 ## Setup
 
-Create a `.env` file in the root directory and add the following environment variables:
+Create a `.env` file in the root directory and add the following environment variables. Replicate or link it it on each source_code_* folders for them to function:
 
 ```.env
 OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
