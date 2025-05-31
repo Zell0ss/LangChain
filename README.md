@@ -6,7 +6,8 @@ To run the final application that you'll build in this tutorial, you can use the
 
 Into each lesson I put two jupyter notebooks. One with the lesson and my insights with the code snippets to execute there and another with the call directly to the python modules of the lesson to test them interactively, REPL like.
 
-[Lesson 1](./source_code_step_1/First_Lesson.ipynb)
+- [Lesson 1](./source_code_step_1/First_Lesson.ipynb)
+- [Lesson 2](./source_code_step_2/Second_Lesson.ipynb)
 
 Head for each of the lesson ones first if you want to follow the course without following the web page. 
 
