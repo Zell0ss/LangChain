@@ -8,10 +8,14 @@ Into each lesson I put two jupyter notebooks. One with the lesson and my insight
 
 - [Lesson 1](./source_code_step_1/First_Lesson.ipynb)
 - [Lesson 2](./source_code_step_2/Second_Lesson.ipynb)
+- [Lesson 3](./source_code_step_3/Third_Lesson.ipynb)
+
 
 Head for each of the lesson ones first if you want to follow the course without following the web page. 
 
-
+some other summaries:
+- [promt engineering](https://claude.ai/public/artifacts/897fb0f4-0ea7-4f38-8b42-d5c4ec36a50b)
+- [graph database modeling](https://claude.ai/public/artifacts/e57c51c8-9389-417e-8500-492eb40c5030)
 ## Setup
 
 Create a `.env` file in the root directory and add the following environment variables. Replicate or link it it on each source_code_* folders for them to function:
