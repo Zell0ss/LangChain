@@ -9,6 +9,7 @@ Into each lesson I put two jupyter notebooks. One with the lesson and my insight
 - [Lesson 1](./source_code_step_1/First_Lesson.ipynb)
 - [Lesson 2](./source_code_step_2/Second_Lesson.ipynb)
 - [Lesson 3](./source_code_step_3/Third_Lesson.ipynb)
+- [Lesson 4](./source_code_step_4/Fourth_Lesson.ipynb)
 
 
 Head for each of the lesson ones first if you want to follow the course without following the web page. 
