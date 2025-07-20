@@ -25,3 +25,5 @@ propmtmaker_chain = chat_prompt_template_propmtmaker | chat_model
 if __name__ == "__main__":
     args = parser.parse_args()
     print(propmtmaker_chain.invoke({"task": args.task, "lazy_prompt": args.lazy_prompt}).content)
+    print("before your answer, asses the uncertainty of your answer. If its greater then 0.1, ask me clarification questions untill the uncertainty is 0.1 or lower")
+    print("#######")
